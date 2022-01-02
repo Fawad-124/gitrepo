@@ -1,0 +1,14 @@
+ranchfile1
+-rw-r--r--  1 root  root    29 جنوری   2 16:01 demofile
+-rw-r--r--  1 root  root  1.0K جنوری   2 16:01 .demofile.swp
+-rw-r--r--  1 root  root    13 جنوری   1 16:42 file2
+-rw-r--r--  1 root  root     0 جنوری   1 22:07 file3.txt
+-rw-r--r--  1 root  root     0 جنوری   1 22:07 file4.txt
+-rw-r--r--  1 root  root     0 جنوری   1 22:07 file5.txt
+-rw-r--r--  1 root  root     0 جنوری   1 22:07 file6.java
+-rw-r--r--  1 root  root     0 جنوری   1 22:07 file7.css
+drwxr-xr-x  8 root  root  4.0K جنوری   2 16:00 .git
+-rw-r--r--  1 root  root    13 جنوری   1 22:03 .gitignore
+-rw-r--r--  1 root  root    72 دسمبر  31 17:09 myfile
+-rw-r--r--  1 root  root    14 جنوری   1 16:47 myfile2
+[A[C[D[A
